@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TgBot", "TgBot\TgBot.csproj", "{5D43E072-69EF-459E-8E0A-2A6349DD7162}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibraryOfUtils", "ClassLibraryOfUtils\ClassLibraryOfUtils.csproj", "{C76977DC-AA12-4578-B997-B55490A08F17}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D43E072-69EF-459E-8E0A-2A6349DD7162}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D43E072-69EF-459E-8E0A-2A6349DD7162}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D43E072-69EF-459E-8E0A-2A6349DD7162}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D43E072-69EF-459E-8E0A-2A6349DD7162}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C76977DC-AA12-4578-B997-B55490A08F17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C76977DC-AA12-4578-B997-B55490A08F17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C76977DC-AA12-4578-B997-B55490A08F17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C76977DC-AA12-4578-B997-B55490A08F17}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C3F4EBC6-333F-4765-A9C1-732F952A247B}
+	EndGlobalSection
+EndGlobal
